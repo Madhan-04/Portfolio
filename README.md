@@ -91,5 +91,6 @@ This project is **open-source** and available for personal use, modification, an
 ---
 
 ## 👨‍💻 Author
-**Madhan E.**  
+**Madhan E**
+
 AI Architect & Software Developer
