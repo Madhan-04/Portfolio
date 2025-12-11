@@ -1,4 +1,4 @@
-# 🌐 Madhan E. — AI Architect & Software Developer Portfolio
+# 🌐 Madhan E — AI Architect & Software Developer Portfolio
 ### *A next-generation digital identity powered by neural animations, glassmorphism, and 3D interactive design.*
 
 This portfolio represents a futuristic fusion of AI aesthetics and modern web engineering.  
